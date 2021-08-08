@@ -1,0 +1,340 @@
+state_fips_code,age,sex,marital_status,total_personal_income
+Alabama,73,Female,Divorced,3000
+Alabama,60,Female,Divorced,11200
+Alabama,43,Female,Married ,15300
+Alabama,40,Male,Married ,47950
+Arizona,27,Male,Married ,14000
+Arizona,53,Female,Married ,30000
+Arizona,60,Female,Widowed,30000
+Arizona,48,Male,Married ,45000
+California,26,Female,Married ,1000
+California,24,Male,Single,3600
+California,20,Male,Single,4000
+California,60,Female,Married ,4400
+California,52,Female,Divorced,5100
+California,19,Female,Single,5600
+California,21,Female,Married ,9500
+California,77,Male,Married ,9700
+California,65,Female,Married ,10000
+California,22,Female,Single,10000
+California,75,Female,Single,10200
+California,37,Female,Separated,10300
+California,22,Male,Single,14100
+California,28,Female,Married ,15000
+California,46,Female,Married ,17500
+California,24,Female,Married ,18800
+California,72,Male,Married ,20000
+California,26,Female,Single,25000
+California,20,Male,Divorced,26300
+California,40,Female,Married ,27000
+California,43,Female,Married ,28000
+California,41,Male,Married ,30000
+California,22,Female,Single,32000
+California,58,Female,Married ,32400
+California,47,Female,Single,34000
+California,46,Male,Married ,36000
+California,31,Male,Married ,36000
+California,30,Female,Married ,38400
+California,40,Female,Married ,40000
+California,79,Female,Widowed,41500
+California,52,Male,Married ,45000
+California,80,Male,Married ,52100
+California,41,Male,Single,57190
+California,52,Male,Married ,58000
+California,41,Male,Married ,75000
+California,60,Male,Married ,111000
+California,62,Male,Married ,115000
+California,58,Male,Married ,134000
+California,45,Male,Married ,160000
+California,60,Male,Married ,330000
+Colorado,48,Male,Divorced,100
+Colorado,35,Male,Married ,13000
+Colorado,30,Female,Single,26700
+Colorado,46,Male,Married ,446000
+Connecticut,56,Female,Single,3600
+Connecticut,32,Female,Married ,34300
+Connecticut,52,Male,Divorced,51000
+Delaware,85,Female,Widowed,9100
+District of Columbia,16,Male,Single,17190
+District of Columbia,27,Female,Single,30000
+Florida,18,Male,Single,2000
+Florida,17,Female,Single,3700
+Florida,69,Female,Married ,4800
+Florida,69,Female,Divorced,4800
+Florida,21,Male,Single,4800
+Florida,25,Male,Single,6000
+Florida,66,Female,Married ,6000
+Florida,18,Female,Single,7500
+Florida,67,Male,Widowed,8400
+Florida,60,Female,Married ,11800
+Florida,28,Female,Married ,12000
+Florida,20,Female,Single,13000
+Florida,58,Female,Widowed,14600
+Florida,44,Female,Married ,16100
+Florida,20,Male,Single,20000
+Florida,31,Male,Married ,20000
+Florida,33,Female,Single,23000
+Florida,26,Male,Married ,24250
+Florida,43,Female,Married ,27000
+Florida,31,Male,Married ,28000
+Florida,80,Female,Widowed,31600
+Florida,62,Female,Divorced,32000
+Florida,47,Male,Married ,34320
+Florida,52,Male,Married ,35000
+Florida,55,Male,Married ,36000
+Florida,51,Female,Divorced,37000
+Florida,54,Female,Married ,40000
+Florida,47,Female,Married ,48000
+Florida,47,Male,Single,49300
+Florida,55,Male,Married ,53000
+Georgia,38,Female,Married ,2900
+Georgia,57,Female,Married ,7600
+Georgia,39,Male,Single,10424
+Georgia,28,Female,Married ,15000
+Georgia,30,Male,Single,16800
+Georgia,67,Male,Married ,19700
+Georgia,45,Female,Divorced,21000
+Georgia,59,Female,Widowed,21200
+Georgia,40,Male,Married ,23300
+Georgia,40,Male,Married ,25000
+Georgia,27,Male,Single,35000
+Georgia,37,Female,Married ,46400
+Georgia,53,Female,Divorced,56740
+Georgia,52,Male,Married ,110000
+Hawaii,49,Female,Married ,22000
+Hawaii,54,Female,Married ,34600
+Idaho,60,Male,Married ,23000
+Illinois,78,Female,Married ,1100
+Illinois,56,Female,Married ,3000
+Illinois,20,Female,Married ,5000
+Illinois,51,Male,Married ,6500
+Illinois,21,Female,Single,8000
+Illinois,87,Female,Married ,13000
+Illinois,39,Male,Married ,22000
+Illinois,40,Female,Married ,24000
+Illinois,23,Female,Single,28000
+Illinois,35,Female,Divorced,30000
+Illinois,62,Male,Divorced,34000
+Illinois,41,Female,Divorced,38500
+Illinois,37,Male,Married ,40600
+Illinois,49,Male,Married ,43020
+Illinois,47,Male,Divorced,45000
+Illinois,39,Male,Married ,50000
+Illinois,34,Female,Married ,53000
+Illinois,48,Male,Single,63000
+Indiana,20,Female,Single,5000
+Indiana,29,Male,Married ,6500
+Indiana,85,Male,Widowed,8000
+Indiana,40,Female,Divorced,9000
+Indiana,76,Female,Widowed,11580
+Indiana,70,Female,Widowed,15800
+Indiana,57,Female,Married ,29340
+Indiana,33,Male,Divorced,36000
+Indiana,73,Female,Single,38900
+Indiana,37,Male,Married ,39920
+Indiana,29,Female,Married ,45500
+Iowa,61,Female,Divorced,14300
+Iowa,48,Male,Married ,21000
+Iowa,47,Male,Married ,36000
+Kansas,21,Female,Single,484
+Kansas,25,Male,Single,40000
+Kansas,24,Male,Single,42000
+Kentucky,30,Female,Married ,3500
+Kentucky,60,Male,Widowed,3800
+Kentucky,66,Female,Married ,23700
+Kentucky,29,Male,Married ,24000
+Kentucky,37,Male,Married ,100000
+Kentucky,57,Male,Married ,456000
+Louisiana,31,Male,Married ,6000
+Louisiana,93,Female,Widowed,8100
+Louisiana,54,Male,Divorced,12100
+Louisiana,71,Male,Widowed,13300
+Louisiana,71,Male,Single,21700
+Louisiana,37,Female,Married ,24000
+Louisiana,49,Male,Married ,29800
+Louisiana,74,Male,Married ,104800
+Maine,39,Male,Single,10700
+Maryland,54,Male,Single,1600
+Maryland,40,Female,Married ,9500
+Maryland,29,Female,Married ,14000
+Maryland,25,Male,Married ,19200
+Maryland,51,Male,Single,22460
+Maryland,40,Male,Single,44000
+Maryland,69,Male,Married ,49700
+Maryland,32,Female,Married ,59700
+Massachusetts,23,Male,Single,12500
+Massachusetts,82,Female,Widowed,22700
+Massachusetts,39,Female,Married ,32700
+Massachusetts,24,Female,Single,37500
+Massachusetts,39,Female,Married ,40000
+Massachusetts,48,Female,Married ,51500
+Massachusetts,36,Male,Married ,60000
+Massachusetts,75,Female,Married ,60900
+Michigan,16,Female,Single,480
+Michigan,18,Male,Single,980
+Michigan,71,Male,Married ,18900
+Michigan,31,Female,Married ,20000
+Michigan,48,Male,Married ,37000
+Michigan,40,Male,Single,69000
+Michigan,35,Male,Married ,76020
+Michigan,46,Male,Married ,80900
+Michigan,44,Male,Married ,86000
+Minnesota,35,Female,Married ,17000
+Minnesota,69,Female,Widowed,17000
+Minnesota,42,Female,Single,33200
+Minnesota,26,Female,Married ,34100
+Minnesota,54,Male,Married ,43000
+Minnesota,37,Female,Single,46000
+Mississippi,32,Female,Single,1400
+Mississippi,46,Female,Married ,25000
+Mississippi,31,Male,Single,25000
+Missouri,81,Female,Widowed,9400
+Missouri,70,Male,Married ,11800
+Missouri,44,Female,Divorced,14000
+Missouri,30,Male,Married ,15700
+Missouri,81,Male,Married ,16300
+Missouri,41,Female,Single,54000
+Montana,29,Male,Married ,36000
+Nebraska,38,Male,Single,40000
+Nevada,28,Male,Single,23000
+New Hampshire,57,Male,Married ,14700
+New Jersey,17,Female,Single,10
+New Jersey,70,Female,Married ,4000
+New Jersey,46,Female,Divorced,4500
+New Jersey,38,Male,Divorced,8840
+New Jersey,73,Male,Married ,14000
+New Jersey,54,Female,Married ,23000
+New Jersey,55,Female,Married ,24000
+New Jersey,25,Male,Single,24500
+New Jersey,32,Female,Single,25000
+New Jersey,46,Female,Married ,36000
+New Jersey,35,Male,Married ,36000
+New Jersey,31,Female,Divorced,36200
+New Jersey,40,Male,Married ,317000
+New Mexico,70,Male,Married ,10600
+New Mexico,46,Male,Divorced,44000
+New York,19,Male,Single,720
+New York,16,Male,Single,1800
+New York,17,Female,Single,2000
+New York,17,Male,Single,2000
+New York,21,Female,Single,4000
+New York,82,Female,Widowed,8800
+New York,29,Male,Single,10000
+New York,46,Female,Married ,14200
+New York,27,Female,Married ,14500
+New York,83,Male,Widowed,15570
+New York,35,Female,Married ,15830
+New York,46,Female,Divorced,17000
+New York,72,Female,Widowed,17300
+New York,36,Male,Single,17500
+New York,36,Female,Married ,19900
+New York,32,Female,Married ,22000
+New York,40,Female,Divorced,25000
+New York,33,Male,Single,37100
+New York,47,Male,Married ,38000
+New York,81,Male,Widowed,55000
+New York,49,Male,Married ,55300
+New York,54,Female,Married ,64000
+New York,61,Female,Divorced,105000
+New York,34,Male,Married ,121600
+New York,63,Male,Married ,123000
+North Carolina,18,Male,Single,980
+North Carolina,24,Male,Single,3600
+North Carolina,60,Female,Married ,8200
+North Carolina,25,Male,Married ,28000
+North Carolina,35,Male,Married ,60000
+Ohio,69,Female,Married ,4800
+Ohio,24,Female,Married ,10000
+Ohio,75,Female,Widowed,10400
+Ohio,27,Male,Single,12000
+Ohio,65,Male,Divorced,12600
+Ohio,21,Female,Single,16000
+Ohio,50,Female,Widowed,19604
+Ohio,29,Male,Married ,22000
+Ohio,37,Male,Single,22000
+Ohio,40,Male,Married ,23700
+Ohio,33,Female,Married ,40000
+Ohio,56,Male,Married ,43030
+Ohio,53,Female,Divorced,44200
+Ohio,52,Male,Married ,47100
+Ohio,57,Male,Married ,61700
+Oklahoma,52,Female,Married ,4200
+Oklahoma,45,Female,Married ,50000
+Oklahoma,48,Male,Married ,59000
+Oklahoma,49,Male,Single,72600
+Oregon,31,Male,Single,24000
+Pennsylvania,24,Male,Single,2200
+Pennsylvania,29,Female,Married ,2800
+Pennsylvania,36,Male,Married ,6500
+Pennsylvania,61,Female,Single,6700
+Pennsylvania,68,Male,Widowed,9100
+Pennsylvania,41,Female,Married ,9100
+Pennsylvania,32,Female,Single,9500
+Pennsylvania,76,Male,Married ,14500
+Pennsylvania,18,Male,Single,15000
+Pennsylvania,25,Female,Single,16000
+Pennsylvania,32,Female,Married ,21000
+Pennsylvania,24,Male,Single,22000
+Pennsylvania,41,Male,Married ,24000
+Pennsylvania,32,Female,Single,27000
+Pennsylvania,43,Male,Married ,68000
+Pennsylvania,42,Male,Married ,68020
+Pennsylvania,38,Male,Married ,103000
+Rhode Island,39,Male,Single,43000
+Rhode Island,30,Female,Single,44004
+South Carolina,40,Male,Divorced,5000
+South Carolina,52,Male,Married ,9000
+South Carolina,42,Female,Married ,15000
+South Carolina,26,Female,Married ,23000
+South Carolina,60,Male,Married ,24100
+South Carolina,78,Male,Married ,26700
+South Carolina,53,Male,Married ,70000
+Tennessee,22,Female,Married ,9000
+Tennessee,34,Female,Married ,12600
+Tennessee,27,Male,Single,12800
+Tennessee,18,Female,Single,15000
+Tennessee,26,Male,Separated,25000
+Tennessee,40,Male,Married ,68000
+Tennessee,73,Male,Married ,140900
+Texas,36,Male,Single,90
+Texas,21,Female,Single,4600
+Texas,70,Male,Widowed,5100
+Texas,64,Female,Married ,8000
+Texas,45,Female,Married ,10000
+Texas,20,Female,Single,13000
+Texas,36,Female,Married ,15000
+Texas,35,Male,Married ,16000
+Texas,45,Female,Married ,20000
+Texas,39,Male,Married ,26300
+Texas,29,Male,Single,27000
+Texas,46,Male,Married ,30030
+Texas,23,Male,Married ,36000
+Texas,63,Male,Married ,38000
+Texas,35,Male,Divorced,40050
+Texas,46,Female,Single,45800
+Texas,44,Male,Divorced,55000
+Texas,43,Male,Single,141900
+Texas,45,Male,Divorced,150500
+Texas,45,Male,Married ,155000
+Utah,29,Female,Single,15000
+Utah,36,Male,Married ,72600
+Virginia,68,Female,Divorced,8500
+Virginia,60,Male,Widowed,15000
+Virginia,36,Male,Married ,18000
+Virginia,47,Male,Married ,19800
+Virginia,60,Male,Married ,48600
+Washington,23,Female,Single,4980
+Washington,39,Female,Single,11620
+Washington,30,Male,Married ,13500
+Washington,64,Male,Widowed,15000
+Washington,27,Male,Married ,16000
+Washington,71,Male,Married ,42600
+Washington,49,Male,Single,50000
+Wisconsin,21,Male,Single,6420
+Wisconsin,29,Female,Married ,20000
+Wisconsin,30,Male,Single,33780
+Wisconsin,63,Male,Divorced,34500
+Wisconsin,78,Male,Single,38400
+Wisconsin,31,Male,Married ,39510
+Wisconsin,40,Male,Divorced,49100
+Wisconsin,61,Male,Married ,55000
